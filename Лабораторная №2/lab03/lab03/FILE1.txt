@@ -1,0 +1,4 @@
+C++ is a powerful programming language
+Coding is fun and rewarding
+Strings manipulation is important
+Computer science is fascinating
